@@ -1,3 +1,5 @@
+# Video 60 fps di YouTube Terasa Patah-patah
+
 ## Masalah
 Ketika memutar video 60fps, terasa seperti tidak lancar
 ## Penyebab
