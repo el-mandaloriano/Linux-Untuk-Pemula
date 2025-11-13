@@ -1,5 +1,5 @@
 # Perkenalan 👋
-Panduan ini saya dedikasikan untuk siapapun yang ingin hijrah ke Linux. Linux bukan lah ekosistem yang sulit untuk dipelajari namun membutuhkan kerja lebih (extra steps) apalagi jika sudah terbiasa dengan Windows dan Mac OS. Panduan ini merupakan rangkuman dari masalah yang saya hadapi dalam menggunakan Linux. Pada panduan ini saya tidak menyediakan cara menginstall distro Linux.
+Panduan ini saya dedikasikan untuk siapapun yang terlanjur hijrah ke Linux. Linux bukan lah ekosistem yang sulit untuk dipelajari namun membutuhkan kerja lebih (extra steps) apalagi jika sudah terbiasa dengan Windows dan Mac OS. Panduan ini merupakan rangkuman dari masalah yang saya hadapi dalam menggunakan Linux. Pada panduan ini saya tidak menyediakan cara menginstall distro Linux.
 ## Distro apa yang cocok untuk pemula?
 Sebenarnya tidak ada distro yang "terbaik". Semua distro adalah baik apabila cocok dengan kebutuhan penggunanya. Jika ada orang yang mengatakan distro a lebih baik dari distro b sebaiknya abaikan saya dan sesuaikan dengan kebutuhan kalian. Walaupun demikian, saya memilih distro Fedora karena kompatibilitasnya dengan perangkat yang saya miliki. Sedikit cerita, saya tidak pernah mengalami masalah dengan driver di distro ini, semua perangkat keras dapat berjalan dengan baik _straight out of the box_.
 ## Siapa saya? 🧐
