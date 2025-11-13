@@ -30,9 +30,9 @@ $ flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor
 5. Pada aplikasi Main Menu klik Firefox pada sidebar samping untuk selanjutnya mengedit "Default command" dari `firefox %u` menjadi `env MOZ_ENABLE_WAYLAND=0 firefox %u`
 <img width="2100" height="1700" alt="Screenshot From 2025-11-13 21-38-43" src="https://github.com/user-attachments/assets/66bf1fa6-38ae-46f8-9a61-7ece8f0b7942" />
 
-10. Klik save dan buka Firefox.
-11. Tulis `about:support` dan arahkan ke "windows protocol"
-12. Apabila sudah tertulis `xwayland` pada "windows protocol" seperti gambar di bawah, maka solusi sudah berhasil diterapkan.
+6. Klik save dan buka Firefox.
+7. Tulis `about:support` dan arahkan ke "windows protocol"
+8. Apabila sudah tertulis `xwayland` pada "windows protocol" seperti gambar di bawah, maka solusi sudah berhasil diterapkan.
 <img width="691" height="169" alt="Screenshot From 2025-11-13 21-44-34" src="https://github.com/user-attachments/assets/34a3c8f0-32a2-479f-890d-55878a873697" />
 
-13. Enjoy YouTube 60 fps!
+9. Enjoy YouTube 60 fps!
