@@ -25,9 +25,9 @@ maka selamat, Firefox yang anda miliki adalah versi RPM (catatan, angka yang mun
 ```
 $ flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor
 ```
-
 (secara default, Flatpak sudah terinstall di Fedora Workstation)
-9. Pada aplikasi Main Menu klik Firefox pada sidebar samping untuk selanjutnya mengedit "Default command" dari `firefox %u` menjadi `env MOZ_ENABLE_WAYLAND=0 firefox %u`
+
+5. Pada aplikasi Main Menu klik Firefox pada sidebar samping untuk selanjutnya mengedit "Default command" dari `firefox %u` menjadi `env MOZ_ENABLE_WAYLAND=0 firefox %u`
 <img width="2100" height="1700" alt="Screenshot From 2025-11-13 21-38-43" src="https://github.com/user-attachments/assets/66bf1fa6-38ae-46f8-9a61-7ece8f0b7942" />
 
 10. Klik save dan buka Firefox.
