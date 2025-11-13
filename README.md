@@ -17,4 +17,4 @@ Sebelum melakukan penyelesaikan terhadap masalah, penting bagi kita untuk menget
 ## Catatan penting
 Daftar masalah pada tulisan ini akan bertambah seiring dengan perjalanan saya menggunakan Fedora. 
 ## Daftar masalah (per November 2025)
-- [Video Youtube patah-patah](Video_patah2.md)
+- [Video Youtube patah-patah](https://github.com/el-mandaloriano/Linux-Untuk-Pemula/blob/Youtube/Video_patah2.md)
