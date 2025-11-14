@@ -1,5 +1,5 @@
 # Video 60 fps di YouTube Terasa Patah-patah
-Solusi ini dicoba pada
+Solusi ini dicoba pada:
 - Fedora Workstation 43
 - Firefox 144
 ## Masalah
