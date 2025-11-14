@@ -33,8 +33,8 @@ $ flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor
 <img width="2100" height="1700" alt="Screenshot From 2025-11-13 21-38-43" src="https://github.com/user-attachments/assets/66bf1fa6-38ae-46f8-9a61-7ece8f0b7942" />
 
 6. Klik save dan buka Firefox.
-7. Tulis `about:support` dan arahkan ke "windows protocol"
-8. Apabila sudah tertulis `xwayland` pada "windows protocol" seperti gambar di bawah, maka solusi sudah berhasil diterapkan.
+7. Tulis `about:support` dan arahkan ke `Windows Protocol`
+8. Apabila sudah tertulis `xwayland` pada `Windows Protocol` seperti gambar di bawah, maka solusi sudah berhasil diterapkan.
 <img width="691" height="169" alt="Screenshot From 2025-11-13 21-44-34" src="https://github.com/user-attachments/assets/34a3c8f0-32a2-479f-890d-55878a873697" />
 
 9. Enjoy YouTube 60 fps!
